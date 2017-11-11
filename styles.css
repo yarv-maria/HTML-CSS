@@ -1,0 +1,31 @@
+p {
+    font-family: Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    text-indent: 25px;
+    text-align: justify;
+    color: black;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.italic {
+    font-style: italic;
+    font-size: 13px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.allert {
+    color: red;
+}
+
+.important {
+    color: blue;
+}
+
